@@ -1,0 +1,753 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<script type="text/javascript" >
+/* <![CDATA[ */
+function strpos(haystack,needle,offset){var i=(haystack+'').indexOf(needle,(offset||0));return i===-1?false:i;}
+var thispage = "https://www.fluentin3months.com/tough/";
+if (strpos(top.location,thispage)!==0||window!=top){top.location.href=thispage;window.open(thispage,'_top');}
+/* ]]> */
+</script> 
+<title>English is tough stuff! Tricky English poem read aloud with IPA indications, and with funny images - Fluent in 3 months - Language Hacking and Travel Tips</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato%3A100%2C300%2Cregular%2C700%2C900%7COpen%20Sans%3A300%7CIndie%20Flower%3Aregular%7COswald%3A300%2Cregular%2C700%7CFira%20Sans%3A300%2C300i%2C400%2C400i%2C700%2C700i%7COswald%3A300%2C400%2C700&subset=" />
+
+<!-- This site is optimized with the Yoast SEO plugin v11.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.fluentin3months.com/tough/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="English is tough stuff! Tricky English poem read aloud with IPA indications, and with funny images - Fluent in 3 months - Language Hacking and Travel Tips" />
+<meta property="og:description" content="This video is entirely in English (I haven&#039;t done such a thing for a half a year!) and is very simply just me reading a poem. But this is no ordinary poem! It was written (not sure by whom) to demonstrate the weird spelling convention that English follows, and is incredibly difficult to read without practising it a lot in advance!
+
+I used to offer the best students in my classes (when I was an English teacher) €100 if they could read the entire thing without slipping up. Considering that I couldn&#039;t even do this myself (I slip up once in the video even this time, and probably pronounce one or two words wrong), I knew that the money was safe!
+
+This poem is generally used to prove that English is the &quot;hardest language in the world&quot; (I shit you not; as I always say every language makes this claim), so I&#039;ve decided to hijack any searches people make for this poem, to add some humour to a normally dull and discouraging concept, and then add some encouragement of my own at the end!" />
+<meta property="og:url" content="https://www.fluentin3months.com/tough/" />
+<meta property="og:site_name" content="Fluent in 3 months - Language Hacking and Travel Tips" />
+<meta property="article:author" content="fluentin3months" />
+<meta property="article:tag" content="english" />
+<meta property="article:tag" content="fun" />
+<meta property="article:tag" content="video" />
+<meta property="article:section" content="english" />
+<meta property="article:published_time" content="2013-06-22T12:27:57+00:00" />
+<meta property="article:modified_time" content="2019-05-22T05:59:18+00:00" />
+<meta property="og:updated_time" content="2019-05-22T05:59:18+00:00" />
+<meta property="og:image" content="https://www.fluentin3months.com/wp-content/uploads/2013/06/tough.jpg" />
+<meta property="og:image:secure_url" content="https://www.fluentin3months.com/wp-content/uploads/2013/06/tough.jpg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="700" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="This video is entirely in English (I haven&#039;t done such a thing for a half a year!) and is very simply just me reading a poem. But this is no ordinary poem! It was written (not sure by whom) to demonstrate the weird spelling convention that English follows, and is incredibly difficult to read without practising it a lot in advance!  I used to offer the best students in my classes (when I was an English teacher) €100 if they could read the entire thing without slipping up. Considering that I couldn&#039;t even do this myself (I slip up once in the video even this time, and probably pronounce one or two words wrong), I knew that the money was safe!  This poem is generally used to prove that English is the &quot;hardest language in the world&quot; (I shit you not; as I always say every language makes this claim), so I&#039;ve decided to hijack any searches people make for this poem, to add some humour to a normally dull and discouraging concept, and then add some encouragement of my own at the end!" />
+<meta name="twitter:title" content="English is tough stuff! Tricky English poem read aloud with IPA indications, and with funny images - Fluent in 3 months - Language Hacking and Travel Tips" />
+<meta name="twitter:image" content="https://www.fluentin3months.com/wp-content/uploads/2013/06/tough.jpg" />
+<meta name="twitter:creator" content="@irishpolyglot" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.fluentin3months.com/#organization","name":"","url":"https://www.fluentin3months.com/","sameAs":[]},{"@type":"WebSite","@id":"https://www.fluentin3months.com/#website","url":"https://www.fluentin3months.com/","name":"Fluent in 3 months - Language Hacking and Travel Tips","publisher":{"@id":"https://www.fluentin3months.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.fluentin3months.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.fluentin3months.com/tough/#webpage","url":"https://www.fluentin3months.com/tough/","inLanguage":"en-US","name":"English is tough stuff! Tricky English poem read aloud with IPA indications, and with funny images - Fluent in 3 months - Language Hacking and Travel Tips","isPartOf":{"@id":"https://www.fluentin3months.com/#website"},"image":{"@type":"ImageObject","@id":"https://www.fluentin3months.com/tough/#primaryimage","url":"https://www.fluentin3months.com/wp-content/uploads/2013/06/tough.jpg","width":1280,"height":700},"primaryImageOfPage":{"@id":"https://www.fluentin3months.com/tough/#primaryimage"},"datePublished":"2013-06-22T12:27:57+00:00","dateModified":"2019-05-22T05:59:18+00:00"},{"@type":"Article","@id":"https://www.fluentin3months.com/tough/#article","isPartOf":{"@id":"https://www.fluentin3months.com/tough/#webpage"},"author":{"@id":"https://www.fluentin3months.com/author/benny/#author","name":"Benny Lewis"},"publisher":{"@id":"https://www.fluentin3months.com/#organization"},"headline":"English is tough stuff! Tricky English poem read aloud with IPA indications, and with funny images","datePublished":"2013-06-22T12:27:57+00:00","dateModified":"2019-05-22T05:59:18+00:00","commentCount":"23","mainEntityOfPage":"https://www.fluentin3months.com/tough/#webpage","image":{"@id":"https://www.fluentin3months.com/tough/#primaryimage"},"keywords":"english,fun,video","articleSection":"english,Fun"},{"@type":"Person","@id":"https://www.fluentin3months.com/author/benny/#author","name":"Benny Lewis","image":{"@type":"ImageObject","@id":"https://www.fluentin3months.com/#personlogo","url":"https://www.fluentin3months.com/wp-content/uploads/2015/11/avatar_user_2_1446890667-96x96.jpg","caption":"Benny Lewis"},"description":"Fun-loving Irish guy, full-time globe trotter and international bestselling author. Benny believes the best approach to language learning is to <a href=\"https://www.fluentin3months.com/tedx/\">speak from day one</a>.","sameAs":["fluentin3months","https://twitter.com/irishpolyglot","irishpolyglot"]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//app.convertkit.com' />
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="Fluent in 3 months - Language Hacking and Travel Tips &raquo; Feed" href="https://www.fluentin3months.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fluent in 3 months - Language Hacking and Travel Tips &raquo; Comments Feed" href="https://www.fluentin3months.com/comments/feed/" />
+<meta property="fb:pages" content="94568347203" /><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='layerslider-css'  href='https://www.fluentin3months.com/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.8.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.fluentin3months.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.fluentin3months.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://www.fluentin3months.com/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prefix-styles-css'  href='https://www.fluentin3months.com/wp-content/themes/fi3m-theme/style.css?ver=05.26.43' type='text/css' media='all' />
+
+
+<link rel='stylesheet' id='fontawesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=5.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/www.fluentin3months.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","ID":"8991","token":"301f0960e7","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js?ver=4.2.2'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/themes/fi3m-theme/js/jquery.responsive-dom.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/themes/fi3m-theme/js/jquery.waypoints.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/themes/fi3m-theme/js/fi3m-main-scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='//app.convertkit.com/assets/CKJS4.js?ver=21'></script>
+<script type='text/javascript' src='//s7.addthis.com/js/300/addthis_widget.js?ver=5.2.2#pubid=ra-54707f2f5661c90f'></script>
+<meta name="generator" content="Powered by LayerSlider 6.8.4 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel='https://api.w.org/' href='https://www.fluentin3months.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fluentin3months.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.fluentin3months.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.2" />
+<link rel='shortlink' href='https://www.fluentin3months.com/?p=8991' />
+<link rel="icon" href="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/favicon.png" />
+<link rel="pingback" href="https://www.fluentin3months.com/xmlrpc.php" />
+<!-- Google Optimize flicker hiding snippet -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-TT3H2X':true});</script>
+	<script type="text/javascript">
+		var swiftypeConfig = {
+			filters: {
+				posts: {
+					category: ["!377"]
+    				}
+			}
+		};
+	</script>
+
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/apple-touch-icon-180x180-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png" />
+
+			<!-- Facebook Pixel Code -->
+			<script>
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+				n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+				fbq('init', '516031381869694'); // Insert your pixel ID here.
+				fbq('track', 'PageView');
+			</script>
+			<noscript>
+				<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=516031381869694&ev=PageView&noscript=1"/>
+			</noscript>
+			<!-- DO NOT MODIFY -->
+			<!-- End Facebook Pixel Code -->
+    	<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+<body class="post-template-default single single-post postid-8991 single-format-standard header-image full-width-content" itemscope itemtype="https://schema.org/WebPage">
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TT3H2X"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TT3H2X');</script>
+
+<div class="site-container"><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="https://www.fluentin3months.com/">Fluent in 3 months - Language Hacking and Travel Tips</a></p><p class="site-description" itemprop="description">Unconventional language hacking tips from Benny the Irish polyglot; travelling the world to learn languages to fluency and beyond!</p></div><div class="widget-area header-widget-area"><section id="search-3" class="widget-odd widget-first widget-1 widget widget_search"><div class="widget-wrap"><form class="search-form" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" method="get" action="https://www.fluentin3months.com/" role="search"><input class="search-form-input" type="search" itemprop="query-input" name="s" id="searchform-5d260f08d2d811.37010884"><input class="search-form-submit" type="submit" value="Search"><meta itemprop="target" content="https://www.fluentin3months.com/?s={s}"></form></div></section>
+<section id="nav_menu-3" class="widget-even widget-last widget-2 widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header" itemscope itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-main-menu" class="menu genesis-nav-menu js-superfish"><li id="menu-item-11907" class="sh-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-11907"><a href="https://www.fluentin3months.com/start-here/" itemprop="url"><span itemprop="name">Start Here!</span></a></li>
+<li id="menu-item-14109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14109"><a href="#" itemprop="url"><span itemprop="name">About</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-14070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14070"><a href="https://www.fluentin3months.com/about/" itemprop="url"><span itemprop="name">About Benny</span></a></li>
+	<li id="menu-item-22280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22280"><a href="https://www.fluentin3months.com/about/team-fi3m/" itemprop="url"><span itemprop="name">Team Fi3M</span></a></li>
+	<li id="menu-item-14069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14069"><a href="https://www.fluentin3months.com/speaker/" itemprop="url"><span itemprop="name">Speaker</span></a></li>
+	<li id="menu-item-14071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14071"><a href="https://www.fluentin3months.com/contact-me/" itemprop="url"><span itemprop="name">Contact</span></a></li>
+</ul>
+</li>
+<li id="menu-item-14072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14072"><a href="https://www.fluentin3months.com/home/" itemprop="url"><span itemprop="name">Blog</span></a></li>
+<li id="menu-item-20356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20356"><a title="Fi3M Premium " href="https://www.fluentin3months.com/premium-m" itemprop="url"><span itemprop="name">PREMIUM</span></a></li>
+<li id="menu-item-23539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23539"><a href="https://www.fluentin3months.com/resources/" itemprop="url"><span itemprop="name">Resources</span></a></li>
+</ul></nav></div></section>
+</div></div></header>
+	<h3 class="mobile-primary-toggle"><i class='fa fa-bars'></i> MENU</h3>
+
+<nav class="nav-primary" aria-label="Main" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-main-menu-1" class="menu genesis-nav-menu menu-primary js-superfish"><li class="sh-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-11907"><a href="https://www.fluentin3months.com/start-here/" itemprop="url"><span itemprop="name">Start Here!</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14109"><a href="#" itemprop="url"><span itemprop="name">About</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14070"><a href="https://www.fluentin3months.com/about/" itemprop="url"><span itemprop="name">About Benny</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22280"><a href="https://www.fluentin3months.com/about/team-fi3m/" itemprop="url"><span itemprop="name">Team Fi3M</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14069"><a href="https://www.fluentin3months.com/speaker/" itemprop="url"><span itemprop="name">Speaker</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14071"><a href="https://www.fluentin3months.com/contact-me/" itemprop="url"><span itemprop="name">Contact</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14072"><a href="https://www.fluentin3months.com/home/" itemprop="url"><span itemprop="name">Blog</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20356"><a title="Fi3M Premium " href="https://www.fluentin3months.com/premium-m" itemprop="url"><span itemprop="name">PREMIUM</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23539"><a href="https://www.fluentin3months.com/resources/" itemprop="url"><span itemprop="name">Resources</span></a></li>
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-8991 post type-post status-publish format-standard has-post-thumbnail category-english category-fun tag-english tag-fun tag-video entry" itemscope itemtype="https://schema.org/CreativeWork"><header class="entry-header">
+		<div class="cover-image" >
+
+			<div class="cover-image-container">
+				
+				<img width="1280" height="700" src="https://www.fluentin3months.com/wp-content/uploads/2013/06/tough.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://www.fluentin3months.com/wp-content/uploads/2013/06/tough.jpg 1280w, https://www.fluentin3months.com/wp-content/uploads/2013/06/tough-300x164.jpg 300w, https://www.fluentin3months.com/wp-content/uploads/2013/06/tough-768x420.jpg 768w, https://www.fluentin3months.com/wp-content/uploads/2013/06/tough-1024x560.jpg 1024w, https://www.fluentin3months.com/wp-content/uploads/2013/06/tough-30x16.jpg 30w, https://www.fluentin3months.com/wp-content/uploads/2013/06/tough-100x55.jpg 100w" sizes="(max-width: 1280px) 100vw, 1280px" />		
+							
+					<div class="cover-img-title">
+						
+						<h1 class="entry-title">English is tough stuff! Tricky English poem read aloud with IPA indications, and with funny images</h1>
+			
+					</div>
+		
+				
+			</div>
+		
+		</div>
+
+	<p class="entry-meta">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><span class="entry-author" itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="https://www.fluentin3months.com/author/benny/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Benny Lewis</span></a></span></span></span></p></header><div class="entry-content" itemprop="text">
+			<div style="display: none"><img src="https://www.fluentin3months.com/wp-content/uploads/2013/06/trick-english-poem.jpg" alt="English is tough stuff! Tricky English poem read aloud with IPA indications, and with funny images" /></div>
+
+		
+			<div style="display: none"><img src="https://www.fluentin3months.com/wp-content/uploads/2013/06/trick-english-poem-2.jpg" alt="English is tough stuff! Tricky English poem read aloud with IPA indications, and with funny images" /></div>
+
+		
+			<div style="display: none"><img src="https://www.fluentin3months.com/wp-content/uploads/2013/06/english-is-tough.jpg" alt="English is tough stuff! Tricky English poem read aloud with IPA indications, and with funny images" /></div>
+
+		<p>I introduce today's fun video!</p>
+<div class="video-container"><span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="340" src="//www.youtube.com/embed/m-JDu3o7Cyw?wmode=transparent&fs=1&hl=en&modestbranding=1&showsearch=0&rel=0&theme=dark&hd=1" frameborder="0" allowfullscreen></iframe></span></div>
+<p>This video is entirely in English (I haven't done such a thing for some time) and is very simply just me reciting a poem. But this is no ordinary poem! It was written (Edit: by &#8220;Gerard Nolst Trenité&#8221; in 1922, with original title &#8220;The Chaos&#8221; and slightly different to what I read) to demonstrate the weird spelling convention that English follows, and is <em>incredibly difficult to read </em>without practising it a lot in advance!</p>
+<p>I used to offer the best students in my classes (<a href="https://www.fluentin3months.com/esl-teachers-learning/" target="_blank" rel="noopener noreferrer">when I was an English teacher</a>) €100 if they could read the entire thing without slipping up. Considering that I couldn't even do this myself (I slip up once in the video even this time, and probably pronounce one or two words wrong), I knew that the money was safe!</p>
+<p>This poem is generally used to prove that English is the &#8220;hardest language in the world&#8221; (I shit you not; as I always say <a href="https://www.fluentin3months.com/most-difficult-language/" target="_blank" rel="noopener noreferrer"><em>every </em>language makes this claim</a>) in a very similar way to how the Shi Shi poem is used to &#8220;prove&#8221; Chinese's impossibility (<a href="https://www.fluentin3months.com/chinese/" target="_blank" rel="noopener noreferrer">Myth Busted</a>), so I've decided to hijack any searches people make for this poem, to add some humour to a normally dull and discouraging concept, and then add some encouragement of my own at the end!<span id="more-8991"></span></p>
+<p>As such, to make the video much more interesting than just me talking, I've included not only the original poem on screen, but also its corresponding pronunciation in the <strong><a href="http://en.wikipedia.org/wiki/International_Phonetic_Alphabet" target="_blank" rel="noopener noreferrer">International Phonetic Alphabet</a> </strong>(IPA). And if that wasn't enough, I've added in a tonne of funny images to represent the majority of these words, to spice it up even more!</p>
+<p>Sorry if I still slipped up on a pronunciation or two in the video! Also, I used the phonetics automatically produced by <a href="http://upodn.com/phon.php" target="_blank" rel="noopener noreferrer">this IPA converter site</a>, correcting it for words that it didn't know. It seems to go along with American pronunciation, so you'll hear my Irish accent disagree with certain sounds, but it's close enough!</p>
+<p>Also, keep watching through to the end, because after the poem I add in some encouraging words of my own to essentially contradict the title of the poem and its very last line!</p>
+<p>If you enjoyed it, please do copy this link to your Facebook wall: http://www.youtube.com/watch?v=m-JDu3o7Cyw</p>
+<p>And leave a comment below to let me know how I did. Thanks! 😀</p>
+<p>Here's the poem in its entirety:</p>
+<hr />
+<p>Dearest creature in creation,<br />
+Study English pronunciation.<br />
+I will teach you in my verse<br />
+Sounds like corpse, corps, horse, and worse.<br />
+I will keep you, Suzy, busy,<br />
+Make your head with heat grow dizzy.<br />
+Tear in eye, your dress will tear.<br />
+So shall I! Oh hear my prayer.</p>
+<p>Just compare heart, beard, and heard,<br />
+Dies and diet, lord and word,<br />
+Sword and sward, retain and Britain.<br />
+(Mind the latter, how it's written.)<br />
+Now I surely will not plague you<br />
+With such words as plaque and ague.<br />
+But be careful how you speak:<br />
+Say break and steak, but bleak and streak;<br />
+Cloven, oven, how and low,<br />
+Script, receipt, show, poem, and toe.</p>
+<p>Hear me say, devoid of trickery,<br />
+Daughter, laughter, and Terpsichore,<br />
+Typhoid, measles, topsails, aisles,<br />
+Exiles, similes, and reviles;<br />
+Scholar, vicar, and cigar,<br />
+Solar, mica, war and far;<br />
+One, anemone, Balmoral,<br />
+Kitchen, lichen, laundry, laurel;<br />
+Gertrude, German, wind and mind,<br />
+Scene, Melpomene, mankind.</p>
+<p>Billet does not rhyme with ballet,<br />
+Bouquet, wallet, mallet, chalet.<br />
+Blood and flood are not like food,<br />
+Nor is mould like should and would.<br />
+Viscous, viscount, load and broad,<br />
+Toward, to forward, to reward.<br />
+And your pronunciation's OK<br />
+When you correctly say croquet,<br />
+Rounded, wounded, grieve and sieve,<br />
+Friend and fiend, alive and live.</p>
+<p>Ivy, privy, famous; clamour<br />
+And enamour rhyme with hammer.<br />
+River, rival, tomb, bomb, comb,<br />
+Doll and roll and some and home.<br />
+Stranger does not rhyme with anger,<br />
+Neither does devour with clangour.<br />
+Souls but foul, haunt but aunt,<br />
+Font, front, wont, want, grand, and grant,<br />
+Shoes, goes, does. Now first say finger,<br />
+And then singer, ginger, linger,<br />
+Real, zeal, mauve, gauze, gouge and gauge,<br />
+Marriage, foliage, mirage, and age.</p>
+<p>Query does not rhyme with very,<br />
+Nor does fury sound like bury.<br />
+Dost, lost, post and doth, cloth, loth.<br />
+Job, nob, bosom, transom, oath.<br />
+Though the differences seem little,<br />
+We say actual but victual.<br />
+Refer does not rhyme with deafer.<br />
+Foeffer does, and zephyr, heifer.<br />
+Mint, pint, senate and sedate;<br />
+Dull, bull, and George ate late.<br />
+Scenic, Arabic, Pacific,<br />
+Science, conscience, scientific.</p>
+<p>Liberty, library, heave and heaven,<br />
+Rachel, ache, moustache, eleven.<br />
+We say hallowed, but allowed,<br />
+People, leopard, towed, but vowed.<br />
+Mark the differences, moreover,<br />
+Between mover, cover, clover;<br />
+Leeches, breeches, wise, precise,<br />
+Chalice, but police and lice;<br />
+Camel, constable, unstable,<br />
+Principle, disciple, label.</p>
+<p>Petal, panel, and canal,<br />
+Wait, surprise, plait, promise, pal.<br />
+Worm and storm, chaise, chaos, chair,<br />
+Senator, spectator, mayor.<br />
+Tour, but our and succour, four.<br />
+Gas, alas, and Arkansas.<br />
+Sea, idea, Korea, area,<br />
+Psalm, Maria, but malaria.<br />
+Youth, south, southern, cleanse and clean.<br />
+Doctrine, turpentine, marine.</p>
+<p>Compare alien with Italian,<br />
+Dandelion and battalion.<br />
+Sally with ally, yea, ye,<br />
+Eye, I, ay, aye, whey, and key.<br />
+Say aver, but ever, fever,<br />
+Neither, leisure, skein, deceiver.<br />
+Heron, granary, canary.<br />
+Crevice and device and aerie.</p>
+<p>Face, but preface, not efface.<br />
+Phlegm, phlegmatic, ass, glass, bass.<br />
+Large, but target, gin, give, verging,<br />
+Ought, out, joust and scour, scourging.<br />
+Ear, but earn and wear and tear<br />
+Do not rhyme with here but ere.<br />
+Seven is right, but so is even,<br />
+Hyphen, roughen, nephew Stephen,<br />
+Monkey, donkey, Turk and jerk,<br />
+Ask, grasp, wasp, and cork and work.</p>
+<p>Pronunciation &#8212; think of Psyche!<br />
+Is a paling stout and spikey?<br />
+Won't it make you lose your wits,<br />
+Writing groats and saying grits?<br />
+It's a dark abyss or tunnel:<br />
+Strewn with stones, stowed, solace, gunwale,<br />
+Islington and Isle of Wight,<br />
+Housewife, verdict and indict.</p>
+<p>Finally, which rhymes with enough &#8212;<br />
+Though, through, plough, or dough, or cough?<br />
+Hiccough has the sound of cup.<br />
+My advice is to give up!!!*</p>
+<hr />
+<p>*Disclaimer: My advice is actually to <a href="https://www.fluentin3months.com/comfort/" target="_blank" rel="noopener noreferrer">never give up</a>!! 😉</p>
+
+		
+		<div class="fixed-navigation left">
+			<a href="https://www.fluentin3months.com/humanist/" title="Next Article"><i class="fa fa-chevron-left"></i></a>
+		</div>
+		<div class="fixed-navigation right">
+								<a href="https://www.fluentin3months.com/vagabond/" title="Previous Article"><i class="fa fa-chevron-right"></i></a>
+						</div>
+
+	<p>And finally... One of the best ways to learn a new language is with podcasts. Read more about <a href="https://www.fluentin3months.com/podcasts" target="_blank">how to use podcasts to learn a language</a>.</p><div id="navigation-trigger"></div>
+			<div id="authorarea">
+				<div class="authorbox-left">
+					<img alt='' src='https://www.fluentin3months.com/wp-content/uploads/2015/11/avatar_user_2_1446890667-120x120.jpg' srcset='https://www.fluentin3months.com/wp-content/uploads/2015/11/avatar_user_2_1446890667.jpg 2x' class='avatar avatar-120 photo' height='120' width='120' />				</div>
+				<div class="authorbox-right">
+					<h3 class="author-name">Benny Lewis</h4>
+					<div class="author-occu">Founder, Fluent in 3 Months</div>
+					<div class="author-langu"><span>Speaks:</span> Spanish, French, German, Italian, Portuguese, Esperanto, Mandarin Chinese, American Sign Language, Dutch, Irish</div>	
+					<div class="author-desc">Fun-loving Irish guy, full-time globe trotter and international bestselling author. Benny believes the best approach to language learning is to <a href="https://www.fluentin3months.com/tedx/">speak from day one</a>.</div>
+					<a class="author-link" href="https://www.fluentin3months.com/author/benny/" rel="author">View all posts by Benny Lewis</a>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+
+		<div class="ck_form ck_naked" id="ck-form">
+
+	<div class="ck_form_fields">
+
+		<div id="join-block">JOIN 300,000+ LANGUAGE HACKERS!</div>
+		<img class="join-spot" src="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/images/join_spot.png" alt="" />
+		<h3>Start speaking your target language from day 1 with confidence!</h3>
+		<span class="optin-text">Sign up for my <strong>FREE</strong> <em>Speak in a Week</em> email course by entering your details!</span>
+
+		 <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/51428/subscribe" data-remote="true">
+      			<input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;,&quot;embed_style&quot;:&quot;inline&quot;,&quot;embed_trigger&quot;:&quot;scroll_percentage&quot;,&quot;scroll_percentage&quot;:&quot;70&quot;,&quot;delay_seconds&quot;:&quot;10&quot;,&quot;display_position&quot;:&quot;br&quot;,&quot;display_devices&quot;:&quot;all&quot;,&quot;days_no_show&quot;:&quot;15&quot;,&quot;converted_behavior&quot;:&quot;custom&quot;}" id="ck_form_options">
+      			<input type="hidden" name="id" value="51428" id="landing_page_id">
+			<div class="ck_errorArea">
+				<div id="ck_error_msg" style="display:none">
+					<p>There was an error submitting your subscription. Please try again.</p>
+				</div>
+			</div>
+			<div class="ck_control_group ck_email_field_group">
+				<label class="ck_label" for="ck_emailField" style="display: none">Email Address</label>
+				<input type="text" name="first_name" class="ck_first_name" id="ck_firstNameField" placeholder="FIRST NAME">
+				<input type="email" name="email" class="ck_email_address" id="ck_emailField" placeholder="EMAIL ADDRESS" required>
+          
+				<label class="what-language" for="tags">What language are you learning?</label>
+	          
+				<select name="tags">
+					<option disabled="disabled" selected="selected">Select language</option>
+					<option value="11537">Spanish</option>
+					<option value="11538">English</option>
+					<option value="11536">French</option>
+					<option value="9917">German</option>
+					<option value="11539">Chinese (Mandarin)</option>
+					<option value="119318">Chinese (Cantonese)</option>
+					<option value="11540">Japanese</option>
+					<option value="11542">Italian</option>
+					<option value="11541">Russian</option>
+					<option value="11543">Arabic</option>
+					<option value="119312">Portuguese</option>
+					<option value="119306">Dutch</option>
+					<option value="119309">Polish</option>
+					<option value="119303">Turkish</option>
+					<option value="119308">Swedish</option>
+					<option value="119310">Hungarian</option>
+					<option value="119305">Thai</option>
+					<option value="119302">Czech</option>
+					<option value="119301">Norwegian</option>
+					<option value="119304">Hebrew</option>
+					<option value="100146">Korean</option>
+					<option value="119320">Tagalog</option>
+					<option value="11544">Other</option>
+					<option value="11545">Multiple languages</option>
+				</select>
+			</div>
+			<button class="subscribe_button ck_subscribe_button btn fields button" id='ck_subscribe_button'>LET'S GET SPEAKING</button>
+		</form>
+	</div>
+	<div id="ck_converted_content" class="ck_converted_content">
+		<a href="https://www.fluentin3months.com/premium-banner">
+			<img src="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/images/converted_banner_2.jpg" />
+		</a>	
+	</div>
+</div>
+<script type="text/javascript">
+	function overrideCKFormHandler() { (function ($) { $('document').ready(function ($) {
+	  form = $('form#ck_subscribe_form');
+	  form.off("submit");
+	  form.submit(function(e) {
+	    e.preventDefault();
+	    var subButton  = form.find('#ck_subscribe_button');
+	    var btnText    = subButton.text();
+	    var successMsg = form.parent().find('#ck_success_msg');
+	    var errorMsg   = form.find('#ck_error_msg');
+	    subButton.prop('disabled', true).text("Subscribing...");
+	    var showErrorMsg = function() {
+	      errorMsg.parent("div").css("display", "block");
+	      errorMsg.css('opacity', '0').fadeTo(250, 1);
+	    }
+	    data = form.serializeArray()
+	    if (!!document.referrer) {
+	      data.push({ name: 'referrer', value: document.referrer});
+	    }
+	    if (form.find(".optIn").is(':checked')) {
+	      data.push({name: 'course_opted', value: true})
+	    }
+	    $.ajax({
+	      url: form.attr('action'),
+	      data: data,
+	      method: "POST",
+	      success: function (response) {
+	        window.location.href = "https://www.fluentin3months.com/contact-me/thanks/"
+	      },
+	      error: function (jqXHR, textStatus, errorThrown) {
+	        subButton.prop('disabled', false).text(btnText);
+	        showErrorMsg();
+	      }
+	    })
+	  });
+	}); })(jQuery); }
+	function overrideCKFormWhenReady() {
+	  setTimeout(function(){
+	    if(window.jQuery) { overrideCKFormHandler(); }
+	    else { overrideCKFormWhenReady(); }
+	  }, 300);
+	}
+	overrideCKFormWhenReady();
+</script>
+		<div id="comments" class="comments-area">
+			<div class="show-disqus">Click here to see the comments!</div>
+        	<div id="disqus_thread"></div>
+		</div>
+
+	</div><footer class="entry-footer"></footer></article></main></div></div>		
+		<div id="tiles-block">
+			
+        <div class="wp-tiles-container">
+        
+            <div id="wp_tiles_1" class="wp-tiles-grid wp-tiles-byline-align-top wp-tiles-byline-animated wp-tiles-byline-slide-up wp-tiles-image-animated wp-tiles-image-desaturate">
+                        
+                <div class='wp-tiles-tile culture video' id='tile-2204'>
+                
+                    <a href="https://www.fluentin3months.com/over-40kg-on-low-cost-carriers/" title="[video] Travel hack: How to pack over 40kg of luggage with you on no-frills airlines">
+                
+                        <article class='wp-tiles-tile-text-only wp-tiles-tile-wrapper' itemscope itemtype="http://schema.org/CreativeWork">
+                                                
+                            <div class='wp-tiles-byline'>
+
+                                <div class='wp-tiles-byline-wrapper'>
+                                                                
+                                    <div class='wp-tiles-byline-content' itemprop="description">
+                                        <h3 class="bl-title">[video] Travel hack: How to pack over 40kg of luggage with you on no-frills airlines</h3>
+<div class="bl-author">written by Benny Lewis</div>
+<div class="bl-excerpt">Check out this video that explains everything in this post, with airport footage from an actual trip I made with 40kg: Ah, no-frills airlines. How we both love and hate you at the same time! Since quite a lot of us are on a budget nowadays, we try to find ways to pay less as [...]</div>
+                                    </div>
+                                
+                                </div>
+
+                            </div>
+                        
+                        </article>
+                
+                    </a>
+                
+                </div>
+            
+                <div class='wp-tiles-tile guest-post language-hacks positive-mentality success-stories' id='tile-19578'>
+                
+                    <a href="https://www.fluentin3months.com/fear-of-speaking/" title="How to Overcome the Fear of Speaking a New Language">
+                
+                        <article class='wp-tiles-tile-with-image wp-tiles-tile-wrapper' itemscope itemtype="http://schema.org/CreativeWork">
+                        
+                            <div class='wp-tiles-tile-bg'>
+
+                                <img src='https://www.fluentin3months.com/wp-content/uploads/2016/11/fear-of-speaking-1024x560.jpg' class='wp-tiles-img' itemprop="image" />
+
+                            </div>
+                                                
+                            <div class='wp-tiles-byline'>
+
+                                <div class='wp-tiles-byline-wrapper'>
+                                                                
+                                    <div class='wp-tiles-byline-content' itemprop="description">
+                                        <h3 class="bl-title">How to Overcome the Fear of Speaking a New Language</h3>
+<div class="bl-author">written by James Granahan</div>
+<div class="bl-excerpt">“Are you paralyzed with fear? That’s a good sign. Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do. Remember one rule of thumb: the more scared we are of a work or calling, the more sure we can be that we have to do it.” ― Steven [...]</div>
+                                    </div>
+                                
+                                </div>
+
+                            </div>
+                        
+                        </article>
+                
+                    </a>
+                
+                </div>
+            
+                <div class='wp-tiles-tile fun guest-post language-hacks' id='tile-23574'>
+                
+                    <a href="https://www.fluentin3months.com/short-videos/" title="How to Use Short Videos to Power-Up Your Language Learning">
+                
+                        <article class='wp-tiles-tile-with-image wp-tiles-tile-wrapper' itemscope itemtype="http://schema.org/CreativeWork">
+                        
+                            <div class='wp-tiles-tile-bg'>
+
+                                <img src='https://www.fluentin3months.com/wp-content/uploads/2018/03/short-videos-1024x560.jpg' class='wp-tiles-img' itemprop="image" />
+
+                            </div>
+                                                
+                            <div class='wp-tiles-byline'>
+
+                                <div class='wp-tiles-byline-wrapper'>
+                                                                
+                                    <div class='wp-tiles-byline-content' itemprop="description">
+                                        <h3 class="bl-title">How to Use Short Videos to Power-Up Your Language Learning</h3>
+<div class="bl-author">written by Diego Cuadros</div>
+<div class="bl-excerpt">Videos and movies are really powerful tools to power-up your language learning. Now, the question is: Do you use these resources correctly? You see, I am a native Spanish speaker, and when I was learning to speak English, I went through a journey of trying different courses and methods, only to leave me thinking that [...]</div>
+                                    </div>
+                                
+                                </div>
+
+                            </div>
+                        
+                        </article>
+                
+                    </a>
+                
+                </div>
+            
+                <div class='wp-tiles-tile language-hacks spanish' id='tile-22309'>
+                
+                    <a href="https://www.fluentin3months.com/spanish-numbers/" title="Spanish Numbers: How to Count from 1 &#8211; 1,000+ in Spanish">
+                
+                        <article class='wp-tiles-tile-with-image wp-tiles-tile-wrapper' itemscope itemtype="http://schema.org/CreativeWork">
+                        
+                            <div class='wp-tiles-tile-bg'>
+
+                                <img src='https://www.fluentin3months.com/wp-content/uploads/2017/12/spanish-numbers-1024x560.jpg' class='wp-tiles-img' itemprop="image" />
+
+                            </div>
+                                                
+                            <div class='wp-tiles-byline'>
+
+                                <div class='wp-tiles-byline-wrapper'>
+                                                                
+                                    <div class='wp-tiles-byline-content' itemprop="description">
+                                        <h3 class="bl-title">Spanish Numbers: How to Count from 1 &#8211; 1,000+ in Spanish</h3>
+<div class="bl-author">written by Benny Lewis</div>
+<div class="bl-excerpt">Would you like to know about Spanish numbers, and how to count from 1-100 in Spanish? In this article I share everything you need to know about Spanish numbers. I cover what the Spanish numbers are, shortcuts for how to learn them, and some bonus stuff. Spanish Numbers from 1-10 Let's start with the basics. [...]</div>
+                                    </div>
+                                
+                                </div>
+
+                            </div>
+                        
+                        </article>
+                
+                    </a>
+                
+                </div>
+            
+                <div class='wp-tiles-tile chinese mission-updates tools' id='tile-6559'>
+                
+                    <a href="https://www.fluentin3months.com/subtitles/" title="The simple guide to adding captions/subtitles to Youtube videos: My 2.5 month Mandarin video">
+                
+                        <article class='wp-tiles-tile-text-only wp-tiles-tile-wrapper' itemscope itemtype="http://schema.org/CreativeWork">
+                                                
+                            <div class='wp-tiles-byline'>
+
+                                <div class='wp-tiles-byline-wrapper'>
+                                                                
+                                    <div class='wp-tiles-byline-content' itemprop="description">
+                                        <h3 class="bl-title">The simple guide to adding captions/subtitles to Youtube videos: My 2.5 month Mandarin video</h3>
+<div class="bl-author">written by Benny Lewis</div>
+<div class="bl-excerpt">First thing's first: This video is my 2.5 month point in Mandarin! Subtitles included in Simplified and Traditional Chinese, as well as English. [Youku version  here] I met up with fellow Youtube polyglot Mike, a.k.a. Glossika and he agreed to bounce some questions off me to demonstrate my progress since the last video. Check out [...]</div>
+                                    </div>
+                                
+                                </div>
+
+                            </div>
+                        
+                        </article>
+                
+                    </a>
+                
+                </div>
+            
+            </div>
+
+        </div>
+        
+        <nav class="wp-tiles-pagination wp-tiles-pagination-ajax" id="wp_tiles_1-pagination">
+            <a href="">Load More</a>
+        </nav>
+        		</div>
+
+	
+		
+			<div id="category-selector">
+				<h4>BROWSE ARTICLES BY CATEGORY</h4><br>
+				<ul>	<li class="cat-item cat-item-45"><a href="https://www.fluentin3months.com/category/main-categories/culture/">Culture</a>
+</li>
+	<li class="cat-item cat-item-373"><a href="https://www.fluentin3months.com/category/main-categories/fun/">Fun</a>
+</li>
+	<li class="cat-item cat-item-363"><a href="https://www.fluentin3months.com/category/main-categories/language-hacks/">Language Hacks</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://www.fluentin3months.com/category/main-categories/mission-updates/">Missions</a>
+</li>
+	<li class="cat-item cat-item-362"><a href="https://www.fluentin3months.com/category/main-categories/success-stories/">Success Stories</a>
+</li>
+</ul>
+			</div>
+
+		
+			<div id="lang-cat-hook">
+				<div id="lang-cat-wrap">
+					<h4>Check out Benny's Tips for Learning...</h4>
+					<ul>
+						<li id="lang-drop"><a href="#">Choose Language</a>
+							<ul>
+								<li><a href="https://www.fluentin3months.com/spanish-learning-resources/">Spanish</a></li>
+								<li><a href="https://www.fluentin3months.com/french-learning-resources/">French</a></li>
+								<li><a href="https://www.fluentin3months.com/english-learning-resources/">English</a></li>
+								<li><a href="https://www.fluentin3months.com/german-learning-resources/">German</a></li>
+								<li><a href="https://www.fluentin3months.com/chinese-learning-resources/">Chinese - Mandarin</a></li>
+								<li><a href="https://www.fluentin3months.com/cantonese-learning-resources/">Chinese - Cantonese</a></li>
+								<li><a href="https://www.fluentin3months.com/japanese-learning-resources/">Japanese</a></li>
+								<li><a href="https://www.fluentin3months.com/russian-learning-resources/">Russian</a></li>
+								<li><a href="https://www.fluentin3months.com/italian-learning-resources/">Italian</a></li>
+								<li><a href="https://www.fluentin3months.com/arabic-learning-resources/">Arabic</a></li>
+								<li><a href="https://www.fluentin3months.com/czech-learning-resources/">Czech</a></li>
+								<li><a href="https://www.fluentin3months.com/dutch-learning-resources/">Dutch</a></li>
+								<li><a href="https://www.fluentin3months.com/esperanto-learning-resources/">Esperanto</a></li>
+								<li><a href="https://www.fluentin3months.com/hebrew-learning-resources/">Hebrew</a></li>
+								<li><a href="https://www.fluentin3months.com/hungarian-learning-resources/">Hungarian</a></li>
+								<li><a href="https://www.fluentin3months.com/irish-learning-resources/">Irish</a></li>
+								<li><a href="https://www.fluentin3months.com/korean-learning-resources/">Korean</a></li>
+								<li><a href="https://www.fluentin3months.com/polish-learning-resources/">Polish</a></li>
+								<li><a href="https://www.fluentin3months.com/european-portuguese-learning-resources/">European Portuguese</a></li>
+								<li><a href="https://www.fluentin3months.com/brazilian-portuguese-learning-resources/">Brazilian Portuguese</a></li>
+								<li><a href="https://www.fluentin3months.com/swedish-learning-resources/">Swedish</a></li>
+								<li><a href="https://www.fluentin3months.com/tagalog-learning-resources/">Tagalog</a></li>
+								<li><a href="https://www.fluentin3months.com/thai-learning-resources/">Thai</a></li>
+								<li><a href="https://www.fluentin3months.com/turkish-learning-resources/">Turkish</a></li>
+								<li><a href="https://www.fluentin3months.com/vietnamese-learning-resources/">Vietnamese</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+	
+		
+	<div id="featured_in_container">
+		
+		<div id="search-container"></div>
+	    <h4>FEATURED IN</h4>
+		<img width="100" height="60" src="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/images/times.png" class="attachment-full size-full" alt="times">
+		<img width="100" height="60" src="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/images/ng.png" class="attachment-full size-full" alt="ng">
+		<img width="100" height="60" src="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/images/4ww.png" class="attachment-full size-full" alt="4ww">
+		<img width="100" height="60" src="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/images/bbc.png" class="attachment-full size-full" alt="bbc">
+		<img width="100" height="60" src="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/images/bins.png" class="attachment-full size-full" alt="bins">
+		<img width="100" height="60" src="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/images/forbes.png" class="attachment-full size-full" alt="forbes">
+		<img width="100" height="60" src="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/images/lifehacker.png" class="attachment-full size-full" alt="lifehacker">
+		<img width="100" height="60" src="https://www.fluentin3months.com/wp-content/themes/fi3m-theme/images/msn.png" class="attachment-full size-full" alt="msn">	</p>
+
+	</div> <footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap">
+	<p><a href="https://www.fluentin3months.com/products">PRODUCTS</a> • <a href="https://fi3mplus.com/affiliates/">AFFILIATES</a> • <a href="https://www.fluentin3months.com/about/">ABOUT BENNY</a> <!--• <a href="https://www.fluentin3months.com/events">MEET BENNY</a>--> • <a href="https://www.fluentin3months.com/contact-me/">CONTACT</a> • <a href="https://twitter.com/irishpolyglot">TWITTER</a> • <a href="https://www.facebook.com/fluentin3months">FACEBOOK</a> • <a href="https://fi3mplus.com/join-the-league/">SPEAK IN A WEEK</a> • <a href="https://www.fluentin3months.com/forum/">FORUM</a> • <a href="https://www.fluentin3months.com/ck/">WE &#9829; CONVERTKIT</a></p>	
+	<hr>
+	<p>Copyright © 2019 – Fluent in 3 Months</p>
+
+</div></footer></div><script src="//my.hellobar.com/7eb858b71beae01dab9067c1aa4b63affc7f1c21.js" type="text/javascript" async></script><link rel='stylesheet' id='wp-tiles-css'  href='https://www.fluentin3months.com/wp-content/plugins/wp-tiles/assets/css/wp-tiles.css?ver=1.1.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.fluentin3months.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"fluentin3months"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17'></script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10'></script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.10.1'></script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/themes/fi3m-theme/js/responsive.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=3.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wptilesdata = {"wp_tiles_1":{"grids":{"fi3m":["AABB.","AA.CC"]},"default_grid":"16614","small_screen_grid":["AABB.","AA.CC"],"breakpoint":"800","grid_selector_color":"#444444","colors":["rgba( 0,166,189,1 )","rgba( 0,123,140,1 )","rgba( 56,181,199,1 )","rgba( 29,197,219,1 )","rgba( 14,134,150,1 )"],"background_opacity":"1","padding":"10","byline_template":"<h3 class=\"bl-title\">%title%<\/h3>\n<div class=\"bl-author\">written by %author%<\/div>\n<div class=\"bl-excerpt\">%excerpt%<\/div>","byline_template_textonly":false,"byline_opacity":"0.7","byline_color":"rgba( 0,166,189,0.7 )","byline_height":"100","byline_height_auto":"","text_color":"#ffffff","image_text_color":"","link":"post","link_new_window":"","text_only":"","images_only":"","hide_title":"1","animate_init":"","animate_resize":"","animate_template":"1","image_size":"large","image_source":"featured_only","byline_effect":"slide-up","byline_align":"top","image_effect":"desaturate","pagination":"ajax","legacy_styles":"","extra_classes":[],"extra_classes_grid_selector":[],"full_width":false,"next_query":{"query":{"post_type":"post","post_status":"publish","post__not_in":[8991],"orderby":"rand","posts_per_page":5,"paged":2},"action":"wp-tiles-get-posts","_ajax_nonce":"1b015a52ad"},"ajaxurl":"https:\/\/www.fluentin3months.com\/wp-admin\/admin-ajax.php","id":"wp_tiles_1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/plugins/wp-tiles/assets/js/wp-tiles.min.js?ver=1.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.8.4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0'></script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.8.4'></script>
+<script type='text/javascript' src='https://www.fluentin3months.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.8.4'></script>
+</body></html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
