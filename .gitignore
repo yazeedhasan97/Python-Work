@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+~/
+data/
+models/
+model/
+*.pb
+*.csv
+*.json
+*.txt
+*.xlsx
+*.xls
+*.h5
+*.png
+*.jpg
+*.jpeg
